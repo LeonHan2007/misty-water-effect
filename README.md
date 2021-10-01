@@ -1,5 +1,5 @@
 # misty-water-effect
-![]()
+![](comparison.png)
 This project was about altering images with water to wake a misty water effect.
 First you take a burst of images of a moving water scene. You can take the average of all the images in a burst, take the max of all of them, or take the min.
 The effect will be more blurry because it is taking into account more images
